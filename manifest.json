@@ -1,0 +1,19 @@
+{ "name": "New Project",
+"description": "This takes you directly to making a new project on Scratch.",
+"version": "1.0",
+"manifest_version": 2,
+"icons": {
+"scratch-16.png": "scratch-128.png"
+},
+"app": {
+"urls": [
+"http://scratch.mit.edu/projects/editor/"
+],
+"launch": {
+"web_url": "http://scratch.mit.edu/projects/editor/"
+}
+},
+"permissions": [
+	
+]
+}
